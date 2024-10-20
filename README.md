@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello everybody, my name is CoolGamerTheSpy👋
 
-<!--
-**CoolGamerTheSpy/CoolGamerTheSpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code in my free time for fun!
 
-Here are some ideas to get you started:
+---------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some info about me
+- 🌱 Currently Learning: `Java`(For Classes), `Assembly`, and `Godot`
+- 🎓 1st Year for Pre-Science
+  
+---------------------------------------
+
+## Main programming languages
+  [![Haxe](https://skillicons.dev/icons?i=haxe)](https://skillicons.dev)
+  [![C ++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  [![Javascript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+  
+---------------------------------------
+
+## Projects I'm working on:
+- FNF: Gamer Engine
+- TSA Pin Wiki
+- NES Game
+
+## Projects I have worked on:
+- FNF Animatronic Attack
