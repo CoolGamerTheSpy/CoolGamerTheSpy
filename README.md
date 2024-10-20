@@ -4,7 +4,7 @@ I code in my free time for fun!
 
 ---------------------------------------
 
-## Some info about me
+## About me
 - 🌱 Currently Learning: `Java`(For Classes), `Assembly`, and `Godot`
 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
