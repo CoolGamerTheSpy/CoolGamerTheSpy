@@ -20,6 +20,7 @@ I code in my free time for fun!
   [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![Javascript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+  [![LUAU](https://skillicons.dev/icons?i=luau)](https://skillicons.dev)
   
 ---------------------------------------
 
